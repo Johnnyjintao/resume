@@ -34,7 +34,7 @@ body {
   font-size: 16px;
 }
 h1 {
-  font-size: 72px;
+  font-size: 48px;
 }
 h2 {
   font-size: 20.8px;
@@ -231,7 +231,6 @@ dl {
 }
 .header-qrcode .qrcode-img {
   width: 130px;
-  height: 130px;
 }
 header {
   overflow-y: hidden;
@@ -290,6 +289,7 @@ header .contact li {
   line-height: 1.4;
   font-size: 18px;
   word-break: break-all;
+  margin-bottom:20px;
 }
 header a:link,
 header a:visited {
